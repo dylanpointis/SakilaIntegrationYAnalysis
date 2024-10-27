@@ -1,0 +1,5 @@
+BASES DE DATOS APLICADA Parcial practica - Dylan Pointis, Facundo Mercado y Lucas Figueredo
+Docente: Martin Miguel Rivas Sarquis
+
+Ejecutar Script scriptDWSchema, ejecutar el script scriptSakilaOriginal, cambiar la cadena de conexion de Integration Services,
+ejecutar Package.dtsx de Integration Services, cambiar cadena de conexion de Analysis Services y procesar Cubo.
